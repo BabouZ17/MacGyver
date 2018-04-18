@@ -9,8 +9,12 @@ To install the game:
 1. Create a directory.
 2. Initialize a virtual env (if you want).
 3. Clone the git repository inside the directory.
+```
+git clone https://github.com/BabouZ17/MacGyver
+```
 4. Install the dependencies with: 
 
 ```
 pip install -r 'requirements.txt'
 ```
+5. Play the game !

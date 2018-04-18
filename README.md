@@ -16,5 +16,10 @@ git clone https://github.com/BabouZ17/MacGyver
 
 ```
 pip install -r 'requirements.txt'
+pip3 install -r 'requirements.txt'
 ```
 5. Play the game !
+```
+python3 game.py
+python game.py
+```
